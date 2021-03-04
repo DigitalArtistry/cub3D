@@ -1,0 +1,17 @@
+R 800 500
+
+NO ./textures/blue.xpm
+
+SO ./textures/brick.xpm
+
+WE ./textures/Red10.xpm
+
+EA ./textures/eagle.xpm
+
+S ./textures/barrel.xpm
+
+F 0,0,0
+
+C 128,128,128
+
+			
